@@ -1,5 +1,5 @@
 # Instagram flexbox
 
-Esse é o repositório da  aula de Flexbox, fiz apenas a interface de login do Instagram!
+Esse é o repositório da  aula do bootcamp da dio, construi a interface de login do Instagram usando flexbox.
 
-Usando HTML,CSS
+Usando HTML,CSS.
